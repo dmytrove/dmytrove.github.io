@@ -9,19 +9,5 @@
         "name": "Dmytro Yemelianov"
     },
     "items": [
-        {
-            "id": "https://dmytrove.github.io/snowofwar.html",
-            "url": "https://dmytrove.github.io/snowofwar.html",
-            "title": "SnowOfWar",
-            "summary": "SnowOfWar",
-            "content_html": "\n  <p>\n    <a href=\"https://dmytrove.github.io/SnowOfWar/\" target=\"_blank\">SnowOfWar</a>\n  </p>",
-            "author": {
-                "name": "Dmytro Yemelianov"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-02-21T11:30:42+02:00",
-            "date_modified": "2025-02-21T11:30:42+02:00"
-        }
     ]
 }
