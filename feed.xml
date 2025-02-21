@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Dmytrove.GitPages</title>
-    <link href="https://dmytrove.github.io/dmytrove.github.io/feed.xml" rel="self" />
-    <link href="https://dmytrove.github.io/dmytrove.github.io" />
+    <link href="https://dmytrove.github.io/feed.xml" rel="self" />
+    <link href="https://dmytrove.github.io" />
     <updated>2025-02-21T11:30:42+02:00</updated>
     <author>
         <name>Dmytro Yemelianov</name>
     </author>
-    <id>https://dmytrove.github.io/dmytrove.github.io</id>
+    <id>https://dmytrove.github.io</id>
 
     <entry>
         <title>SnowOfWar</title>
         <author>
             <name>Dmytro Yemelianov</name>
         </author>
-        <link href="https://dmytrove.github.io/dmytrove.github.io/snowofwar.html"/>
-        <id>https://dmytrove.github.io/dmytrove.github.io/snowofwar.html</id>
+        <link href="https://dmytrove.github.io/snowofwar.html"/>
+        <id>https://dmytrove.github.io/snowofwar.html</id>
 
         <updated>2025-02-21T11:30:42+02:00</updated>
             <summary>

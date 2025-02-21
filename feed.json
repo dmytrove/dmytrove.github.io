@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Dmytrove.GitPages",
     "description": "",
-    "home_page_url": "https://dmytrove.github.io/dmytrove.github.io",
-    "feed_url": "https://dmytrove.github.io/dmytrove.github.io/feed.json",
+    "home_page_url": "https://dmytrove.github.io",
+    "feed_url": "https://dmytrove.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dmytro Yemelianov"
     },
     "items": [
         {
-            "id": "https://dmytrove.github.io/dmytrove.github.io/snowofwar.html",
-            "url": "https://dmytrove.github.io/dmytrove.github.io/snowofwar.html",
+            "id": "https://dmytrove.github.io/snowofwar.html",
+            "url": "https://dmytrove.github.io/snowofwar.html",
             "title": "SnowOfWar",
             "summary": "SnowOfWar",
             "content_html": "\n  <p>\n    <a href=\"https://dmytrove.github.io/SnowOfWar/\" target=\"_blank\">SnowOfWar</a>\n  </p>",
