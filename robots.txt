@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dmytrove.github.io/dmytrove.github.io/sitemap.xml
